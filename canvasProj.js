@@ -8,7 +8,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 
-var thanksStr = ["text10", "text1", "text2", "text3", "text4", "text5", "text6", "text7", "text8", "text9"];
+var thanksStr = ["you", "are", "going", "to", "achieve", "your", "goal", "I", "trust", "you"];
 var i = 0;
 var radius = 50;
 var clicks = 0;
